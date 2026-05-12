@@ -1,0 +1,9 @@
+[project]
+site_name = "Steel Dominion Wiki"
+site_url = "https://wiki.steeldominion.net"
+docs_dir = "docs"
+site_dir = "site"
+dev_addr = "localhost:8000"
+
+[project.theme]
+variant = "classic"
